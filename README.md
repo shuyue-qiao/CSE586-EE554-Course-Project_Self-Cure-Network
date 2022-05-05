@@ -1,4 +1,4 @@
-# Self-Cure-Network
+# CSE586-EE554-Course-Project_Self-Cure-Network
 This is the replication of Self Cure Network from **kaiwang960112** on GitHub. 
 Here is the link to his work site: https://github.com/kaiwang960112/Self-Cure-Network. <br />
 And here is the link to their paper: https://arxiv.org/pdf/2002.10392.pdf.<br />
