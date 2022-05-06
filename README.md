@@ -1,11 +1,5 @@
 # CSE586-EE554-Course-Project_Self-Cure-Network
-We used **kaiwang960112**'s self cure network as a reference to achive this work. <br />
-Here is the link to his work site: https://github.com/kaiwang960112/Self-Cure-Network. <br />
-And here is the link to their paper: https://arxiv.org/pdf/2002.10392.pdf.<br />
 About the dataset, here is the link of how to get Real-world Affective Faces Database(RAF-DB): http://www.whdeng.cn/RAF/model1.html#dataset 
-
-
-
 
 **Abstract**
 
@@ -27,3 +21,8 @@ After downloading all files, create the path to dataset. For RAD-DB dataset it n
 ```             
 **Run**
 - Python train.py 
+
+Reference
+https://pytorch.org/tutorials/
+https://arxiv.org/pdf/2002.10392.pdf.<br />
+https://github.com/kaiwang960112/Self-Cure-Network. <br />
